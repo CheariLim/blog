@@ -16,6 +16,7 @@ permalink: /about/
 ## 사용가능한 Tools
 
  -R
+ 
  -Python
 
 ## 데이터 분석 project
